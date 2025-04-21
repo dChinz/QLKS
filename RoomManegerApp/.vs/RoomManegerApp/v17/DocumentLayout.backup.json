@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Download\\QLKS-main\\RoomManegerApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D75529A3-A671-450D-9085-E730070F75CB}|RoomManegerApp\\RoomManegerApp.csproj|d:\\download\\qlks-main\\roommanegerapp\\roommanegerapp\\meter_readings\\formmeterreading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D75529A3-A671-450D-9085-E730070F75CB}|RoomManegerApp\\RoomManegerApp.csproj|solutionrelative:roommanegerapp\\meter_readings\\formmeterreading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D75529A3-A671-450D-9085-E730070F75CB}|RoomManegerApp\\RoomManegerApp.csproj|d:\\download\\qlks-main\\roommanegerapp\\roommanegerapp\\meter_readings\\formadd_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D75529A3-A671-450D-9085-E730070F75CB}|RoomManegerApp\\RoomManegerApp.csproj|solutionrelative:roommanegerapp\\meter_readings\\formadd_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D75529A3-A671-450D-9085-E730070F75CB}|RoomManegerApp\\RoomManegerApp.csproj|d:\\download\\qlks-main\\roommanegerapp\\roommanegerapp\\meter_readings\\formadd_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D75529A3-A671-450D-9085-E730070F75CB}|RoomManegerApp\\RoomManegerApp.csproj|solutionrelative:roommanegerapp\\meter_readings\\formadd_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D75529A3-A671-450D-9085-E730070F75CB}|RoomManegerApp\\RoomManegerApp.csproj|d:\\download\\qlks-main\\roommanegerapp\\roommanegerapp\\meter_readings\\formmeterreading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D75529A3-A671-450D-9085-E730070F75CB}|RoomManegerApp\\RoomManegerApp.csproj|solutionrelative:roommanegerapp\\meter_readings\\formmeterreading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormAdd_new.cs",
+              "DocumentMoniker": "D:\\Download\\QLKS-main\\RoomManegerApp\\RoomManegerApp\\Meter_readings\\FormAdd_new.cs",
+              "RelativeDocumentMoniker": "RoomManegerApp\\Meter_readings\\FormAdd_new.cs",
+              "ToolTip": "D:\\Download\\QLKS-main\\RoomManegerApp\\RoomManegerApp\\Meter_readings\\FormAdd_new.cs",
+              "RelativeToolTip": "RoomManegerApp\\Meter_readings\\FormAdd_new.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAqwD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T09:27:36.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormAdd_new.cs [Design]",
+              "DocumentMoniker": "D:\\Download\\QLKS-main\\RoomManegerApp\\RoomManegerApp\\Meter_readings\\FormAdd_new.cs",
+              "RelativeDocumentMoniker": "RoomManegerApp\\Meter_readings\\FormAdd_new.cs",
+              "ToolTip": "D:\\Download\\QLKS-main\\RoomManegerApp\\RoomManegerApp\\Meter_readings\\FormAdd_new.cs [Design]",
+              "RelativeToolTip": "RoomManegerApp\\Meter_readings\\FormAdd_new.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T09:27:34.769Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormMeterreading.cs",
+              "DocumentMoniker": "D:\\Download\\QLKS-main\\RoomManegerApp\\RoomManegerApp\\Meter_readings\\FormMeterreading.cs",
+              "RelativeDocumentMoniker": "RoomManegerApp\\Meter_readings\\FormMeterreading.cs",
+              "ToolTip": "D:\\Download\\QLKS-main\\RoomManegerApp\\RoomManegerApp\\Meter_readings\\FormMeterreading.cs*",
+              "RelativeToolTip": "RoomManegerApp\\Meter_readings\\FormMeterreading.cs*",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAswE0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T07:14:08.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormMeterreading.cs [Design]",
+              "DocumentMoniker": "D:\\Download\\QLKS-main\\RoomManegerApp\\RoomManegerApp\\Meter_readings\\FormMeterreading.cs",
+              "RelativeDocumentMoniker": "RoomManegerApp\\Meter_readings\\FormMeterreading.cs",
+              "ToolTip": "D:\\Download\\QLKS-main\\RoomManegerApp\\RoomManegerApp\\Meter_readings\\FormMeterreading.cs [Design]*",
+              "RelativeToolTip": "RoomManegerApp\\Meter_readings\\FormMeterreading.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T07:14:06.472Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
